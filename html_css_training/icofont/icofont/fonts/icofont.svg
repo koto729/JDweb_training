@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<font id="icofont" horiz-adv-x="1000" >
+<font-face font-family="IcoFont" font-weight="400" font-style="Regular" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="ui-search" horiz-adv-x="1000" unicode="&#xec82;" d="M982 61l-235 216c27 54 43 114 43 178 0 218-177 395-395 395-218 0-395-177-395-395 0-218 177-395 395-395 64 0 124 16 178 43l215-235c22-23 57-24 79-2l117 117c22 22 21 57-2 78z m-587 153c-133 0-241 108-241 241 0 133 108 241 241 241 133 0 241-108 241-241 0-133-108-241-241-241z" />
+</font>
+</defs>
+</svg>
